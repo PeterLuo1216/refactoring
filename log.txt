@@ -1,3 +1,6 @@
+8c9c5a1 Task 1.2: Update git log
+3d3871c Task 1.1: Fix CheckStyle issues - encapsulate fields, use constants, add javadoc
+139373f Task 2: Update git log after completing all refactoring steps
 43a64d6 Task 2.4: Split loops and extract total calculation methods
 7983fb0 Task 2.3: Remove frmt variable and create usd formatting method
 98277cb Task 2.2: Extract volume credits calculation to getVolumeCredits method
